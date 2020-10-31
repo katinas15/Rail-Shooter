@@ -50,6 +50,7 @@
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\Enemy.cs" />
      <Compile Include="Assets\SelfDestruct.cs" />
+     <Compile Include="Assets\ScoreBoard.cs" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
      <None Include="Assets\epyphany\ReadMe.txt" />
     <Reference Include="UnityEngine">
