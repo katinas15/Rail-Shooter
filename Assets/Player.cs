@@ -22,6 +22,9 @@ public class Player : MonoBehaviour
         
     }
 
+    public void OnPlayerDeath(){
+        print("message received");
+    }
     // Update is called once per frame
     void Update()
     {
